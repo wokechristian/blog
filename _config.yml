@@ -1,5 +1,6 @@
 title: The Christian's guide to getting Woke!
 description: > # this means to ignore newlines until "baseurl:"
+  Welcome to the Woke Christian Blog. 
   A space for Christians to learn about the social challenges of our generation
   
   permalink: ':title/'
@@ -10,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Hank Black # add your name
 author-img: david-freeman.jpg # add your photo
-about-author:  # add description
+about-author:  A space for Christians to learn about the social challenges of our generation # add description
 social-twitter: https://twitter.com/WokeApostle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
