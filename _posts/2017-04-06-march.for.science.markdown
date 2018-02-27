@@ -2,12 +2,13 @@
 layout: post
 title: A March for Science?
 date: 2018-02-26 13:32:20 +0300
-description: Why do we need a march for scicne? # Add post description (optional)
+description: Why do we need a march for science? # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 tags: [March, Science, Christianity]
 ---
-The March for Science
-Real issue: America’s war with facts and science
+
+Real issue: America’s war with facts 
+
 As Christians we can often be taught to treat science with distrust. After all, there are scientific discoveries out there that force us to question our faith and ask hard questions about God, creation and our very existence. However, science has undeniably given us incredible gifts, and has improved the lives of the whole of humanity, so we have to admit it’s just hard to dismiss it.
 Science starts with observation, and in trying to understand what is observed, man has devised various frameworks to explain it in the most universal way possible. This is called the scientific method, and it works!
 When I first heard about the March for Science I was dumbfounded. Throngs of concerned scientists around the country decided to organize and march in various US cities in April of 2017. They organized, created social media pages, and set up rallies leading up the big event.
