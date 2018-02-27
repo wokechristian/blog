@@ -8,14 +8,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
+author: Hank Black # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+about-author:  # add description
 social-twitter: https://twitter.com/WokeApostle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: thewokechristian@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
