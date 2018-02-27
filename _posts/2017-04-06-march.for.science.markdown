@@ -3,7 +3,7 @@ layout: post
 title: A March for Science?
 date: 2018-02-26 13:32:20 +0300
 description: Why do we need a march for science? # Add post description (optional)
-img: March_For_Science (2).jpg # Add image post (optional)
+img: March_For_Science-B.jpg # Add image post (optional)
 tags: [March, Science, Christianity]
 ---
 
